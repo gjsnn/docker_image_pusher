@@ -1,2 +1,2 @@
-dreamacro/clash​
-haishanh/yacd​
+dreamacro/clash​:latest
+haishanh/yacd​:latest
